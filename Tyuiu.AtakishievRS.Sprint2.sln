@@ -33,7 +33,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.AtakishievRS.Sprint2.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.AtakishievRS.Sprint2.Task3.V3", "Tyuiu.AtakishievRS.Sprint2.Task3.V3\Tyuiu.AtakishievRS.Sprint2.Task3.V3.csproj", "{545333C9-149A-4FE8-A487-6D8B34B2B78C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.AtakishievRS.Sprint2.Task3.V3.Lib.Test", "Tyuiu.AtakishievRS.Sprint2.Task3.V3.Lib.Test\Tyuiu.AtakishievRS.Sprint2.Task3.V3.Lib.Test.csproj", "{E3485D51-D720-494B-9350-A74E382358A7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.AtakishievRS.Sprint2.Task3.V3.Test", "Tyuiu.AtakishievRS.Sprint2.Task3.V3.Lib.Test\Tyuiu.AtakishievRS.Sprint2.Task3.V3.Test.csproj", "{E3485D51-D720-494B-9350-A74E382358A7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

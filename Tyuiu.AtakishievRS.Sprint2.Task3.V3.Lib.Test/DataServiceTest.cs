@@ -4,6 +4,7 @@ namespace Tyuiu.AtakishievRS.Sprint2.Task3.V3.Lib.Test
     [TestClass]
     public sealed class DataServiceTest
     {
+
         [TestMethod]
         public void Meth()
         {
