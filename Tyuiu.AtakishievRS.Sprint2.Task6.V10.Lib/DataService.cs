@@ -42,7 +42,7 @@ namespace Tyuiu.AtakishievRS.Sprint2.Task6.V10.Lib
                     n--;
                     break;
             }
-            res = ($"{n}.{m}.{g}");
+            res = $"{n:D2}.{m:D2}.{g}";
             return res;
 
         }
